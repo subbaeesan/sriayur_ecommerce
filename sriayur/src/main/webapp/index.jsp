@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+Welcome to Sriayur Ecommerce..  build version 1.0 in progress
 </body>
 </html>
